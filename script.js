@@ -34,7 +34,7 @@ function soundBeep (){
 
 function soundGoku () {
   var beep = new Audio();
-  beep.src = "fogo.mp3";
+  beep.src = "fogof.mp3";
   beep.play();
 }
 
